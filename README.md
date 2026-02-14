@@ -13,7 +13,7 @@ The objective of this project is to transform raw customer data into meaningful 
 
 ---
 
-## Technologies Used
+## Tech Stack
 - Python
 - NumPy
 - Pandas
